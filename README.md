@@ -71,6 +71,8 @@ The final command specifies that the application should be run using the node co
 ![image](https://github.com/ashwaq06/Appsdeployer-DevOps-Intern-Assessment/assets/80192952/a31374fc-08f0-45ef-8f91-d845215faa8e)
 
 ## Building Docker Image 
+![image](https://github.com/ashwaq06/Appsdeployer-DevOps-Intern-Assessment/assets/80192952/4fdc0a6c-25bf-4206-9a58-3bbc980e92c5)
+![image](https://github.com/ashwaq06/Appsdeployer-DevOps-Intern-Assessment/assets/80192952/f05535f3-e381-4a0b-84dc-7c2c3e2d8fe3)
 
 By running the following command we can build the Docker Image from the Dockerfile we have written
 ```bash
